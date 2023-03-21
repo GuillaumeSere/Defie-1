@@ -65,7 +65,7 @@
 .description p{
     width: 350px;
     font-size: 15px;
-    letter-spacing: 1;
+    letter-spacing: 1px;
     line-height: 1.5;
     color: hsl(236, 13%, 42%);
     display: block;
